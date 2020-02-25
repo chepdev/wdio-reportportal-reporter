@@ -1,6 +1,6 @@
 {
-  "name": "wdio-reportportal-reporter",
-  "version": "5.2.4",
+  "name": "@chepdev/wdio-reportportal-reporter",
+  "version": "5.3.1",
   "description": "A WebdriverIO v5 plugin. Report results to Report Portal.",
   "main": "build/reporter.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/borisosipov/wdio-reportportal-reporter.git"
+    "url": "git+https://github.com/chepdev/wdio-reportportal-reporter.git"
   },
   "directories": {
     "lib": "./lib"
